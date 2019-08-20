@@ -6,6 +6,7 @@ namespace Couchbase
     {
         public AuthenticationException()
         {
+            var dd = "ss";
         }
 
         public AuthenticationException(string message)
